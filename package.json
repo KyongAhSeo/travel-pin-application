@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://blooming-thicket-89354.herokuapp.com/api"
+  "proxy": "http://localhost:5000/api"
 }
