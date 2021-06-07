@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import ReactMapGL, { Marker, Popup, NavigationControl, FlyToInterpolator } from "react-map-gl";
 import { useEffect, useState } from "react";
 import { Room, Star } from "@material-ui/icons";
