@@ -39,7 +39,7 @@ export default function Register({ setShowRegister }) {
         <button className="registerBtn" type="submit">
           Register
         </button>
-        {success && <span className="success">Successfull. You can login now!</span>}
+        {success && <span className="success">Successful. You can login now!</span>}
         {error && <span className="failure">Something went wrong!</span>}
       </form>
       <Cancel className="registerCancel" onClick={() => setShowRegister(false)} />

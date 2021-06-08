@@ -30,6 +30,16 @@ label {
   font-size: 12px;
 }
 
+.cardEdit {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.editIcon {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
 form {
   width: 250px;
   height: 250px;
